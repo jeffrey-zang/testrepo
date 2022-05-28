@@ -1,1 +1,2 @@
 Testing if vscode liveshare and github work
+ok my vscode github works without liveshare - lifeng
